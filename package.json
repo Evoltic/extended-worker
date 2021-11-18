@@ -1,0 +1,25 @@
+{
+  "name": "extended-worker",
+  "version": "1.0.0",
+  "description": "A wrapper for a web worker to simplify workers usage",
+  "exports": {
+    "./autoWorker": "./src/autoWorker.js",
+    "./makeWorker": "./src/makeWorker.js",
+    "./useWorker": "./src/useWorker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evoltic/extended-worker.git"
+  },
+  "keywords": [
+    "worker",
+    "web worker",
+    "thread"
+  ],
+  "author": "evoltic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evoltic/extended-worker/issues"
+  },
+  "homepage": "https://github.com/Evoltic/extended-worker#readme"
+}
