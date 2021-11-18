@@ -1,4 +1,8 @@
 # Extended worker library
+
+[![npm](https://img.shields.io/npm/v/extended-worker.svg)](https://npmjs.com/package/extended-worker)
+[![npm](https://packagephobia.com/badge?p=extended-worker)](https://packagephobia.com/result?p=extended-worker)
+
 A wrapper for a web worker
 
 ## Basic usage
